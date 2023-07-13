@@ -1,0 +1,8 @@
+Website = "https://github.com/jhollowe/hdhr-signal-utils"
+
+[Details]
+Icon = "icon.png"
+Name = "HDHR Signal Utils"
+ID = "com.jhollowe.hdhr-signal-utils"
+Version = "0.0.1"
+Build = 1
